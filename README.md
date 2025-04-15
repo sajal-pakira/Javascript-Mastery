@@ -1,2 +1,2 @@
-# Javascript-Mastery
-full javascipt course from scratch to advanced
+# Javascript-Projects
+Projects based on DOM manipulation, Even Listener
